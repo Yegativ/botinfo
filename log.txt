@@ -1,0 +1,71 @@
+21.04.18 16:04:21  bot polling error
+21.04.18 16:04:39  bot polling error
+21.04.18 16:04:18 554000331 user send /start , bot answer hello
+21.04.18 16:04:18  bot polling error
+21.04.18 17:04:31 554000331 user send /start , bot answer hello
+21.04.18 17:04:32  bot polling error
+21.04.18 17:04:19 554000331 user send /start , bot answer hello
+21.04.18 17:04:20  bot polling error
+21.04.18 17:04:41 554000331 user send /start , bot answer hello
+21.04.18 17:04:42 554000331 user get kurs
+21.04.18 17:04:42  bot polling error
+21.04.18 17:04:03 554000331 user send /start , bot answer hello
+21.04.18 17:04:04 554000331 user get kurs
+21.04.18 17:04:04 554000331 user send /start , bot answer hello
+21.04.18 17:04:05 554000331 user get kurs
+21.04.18 18:04:48 554000331 user send /start , bot answer hello
+21.04.18 18:04:49 554000331 user get kurs
+21.04.18 18:04:50 554000331 bot send kurs
+21.04.18 18:04:18 554000331 user send /start , bot answer hello
+21.04.18 18:04:19 554000331 user get kurs
+21.04.18 18:04:20 554000331 bot send kurs
+21.04.18 18:04:20 554000331 user get kurs
+21.04.18 18:04:22 554000331 bot send kurs
+21.04.18 18:04:22 554000331 user get kurs
+21.04.18 18:04:22 554000331 bot send kurs
+21.04.18 18:04:23 554000331 user get kurs
+21.04.18 18:04:24 554000331 bot send kurs
+21.04.18 18:04:25 554000331 user get kurs
+21.04.18 18:04:26 554000331 bot send kurs
+21.04.18 18:04:27 554000331 user get kurs
+21.04.18 18:04:27 554000331 bot send kurs
+21.04.18 18:04:28 554000331 user get kurs
+21.04.18 18:04:29 554000331 bot send kurs
+21.04.18 18:04:29 554000331 user get kurs
+21.04.18 18:04:30 554000331 bot send kurs
+21.04.18 18:04:30 554000331 user get kurs
+21.04.18 18:04:30 554000331 bot send kurs
+21.04.18 18:04:30 554000331 user get kurs
+21.04.18 18:04:31 554000331 bot send kurs
+21.04.18 18:04:31 554000331 user get kurs
+21.04.18 18:04:32 554000331 bot send kurs
+21.04.18 18:04:38 554000331 user get kurs
+21.04.18 18:04:39 554000331 bot send kurs
+21.04.18 18:04:39 554000331 user get kurs
+21.04.18 18:04:39 554000331 bot send kurs
+21.04.18 18:04:40 554000331 user get kurs
+21.04.18 18:04:40 554000331 bot send kurs
+21.04.18 18:04:40 554000331 user get kurs
+21.04.18 18:04:41 554000331 bot send kurs
+21.04.18 18:04:41 554000331 user get kurs
+21.04.18 18:04:42 554000331 bot send kurs
+21.04.18 18:04:42 554000331 user get kurs
+21.04.18 18:04:43 554000331 bot send kurs
+21.04.18 18:04:35 554000331 user send /start , bot answer hello
+21.04.18 18:04:36  bot polling error
+21.04.18 18:04:38 554000331 user send /start , bot answer hello
+21.04.18 18:04:39 554000331 user get weather
+21.04.18 18:04:03 554000331 user send /start , bot answer hello
+21.04.18 18:04:04 554000331 user get weather
+21.04.18 18:04:05  bot polling error
+21.04.18 18:04:10 554000331 user send /start , bot answer hello
+21.04.18 18:04:11 554000331 user get weather
+21.04.18 18:04:11 554000331 bot not send weather because portal not working
+21.04.18 18:04:57 554000331 user send /start , bot answer hello
+21.04.18 18:04:58 554000331 user get weather
+21.04.18 18:04:12 554000331 user send /start , bot answer hello
+21.04.18 18:04:13 554000331 user get weather
+21.04.18 18:04:39 554000331 user send /start , bot answer hello
+21.04.18 18:04:40 554000331 user get weather
+21.04.18 18:04:18 554000331 user send /start , bot answer hello
+21.04.18 18:04:25 554000331 user get weather
